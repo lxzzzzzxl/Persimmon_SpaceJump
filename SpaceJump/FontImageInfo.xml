@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FilePaths>
+  <ImageFilePaths>
+    <ImageFilePath>0.png</ImageFilePath>
+    <ImageFilePath>1.png</ImageFilePath>
+    <ImageFilePath>2.png</ImageFilePath>
+    <ImageFilePath>3.png</ImageFilePath>
+    <ImageFilePath>4.png</ImageFilePath>
+    <ImageFilePath>5.png</ImageFilePath>
+    <ImageFilePath>6.png</ImageFilePath>
+    <ImageFilePath>7.png</ImageFilePath>
+    <ImageFilePath>8.png</ImageFilePath>
+    <ImageFilePath>9.png</ImageFilePath>
+    <ImageFilePath>back.png</ImageFilePath>
+    <ImageFilePath>dpp.png</ImageFilePath>
+    <ImageFilePath>gameover.png</ImageFilePath>
+    <ImageFilePath>hbarrier.png</ImageFilePath>
+    <ImageFilePath>nbarrier.png</ImageFilePath>
+    <ImageFilePath>npp.png</ImageFilePath>
+    <ImageFilePath>score.png</ImageFilePath>
+  </ImageFilePaths>
+  <FontFilePaths />
+</FilePaths>
