@@ -1,0 +1,75 @@
+[0823/100022.852:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0823/100022.853:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0823/100023.148:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0823/100023.299:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.311:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.311:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.320:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.321:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.322:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.322:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.322:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100023.322:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100024.061:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100024.061:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100026.416:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///D:/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0823/100026.416:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0823/100026.962:INFO:CONSOLE(251)] "Uncaught Error: System.InvalidOperationException: Could not execute method: SetJsFontSize(14)  ---> System.ArgumentException: 类型“System.String”的对象无法转换为类型“System.Int32”。
+   在 System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   在 System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   在 System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters, Object& result, String& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters, Object& result, String& exception)", source: file:///D:/PersimmonUIBuilder/Monaco/Monaco.html (251)
+[0823/100027.376:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100027.376:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0823/100028.029:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///D:/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0823/100028.030:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0823/100028.511:INFO:CONSOLE(251)] "Uncaught Error: System.InvalidOperationException: Could not execute method: SetJsFontSize(14)  ---> System.ArgumentException: 类型“System.String”的对象无法转换为类型“System.Int32”。
+   在 System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   在 System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   在 System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters, Object& result, String& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters, Object& result, String& exception)", source: file:///D:/PersimmonUIBuilder/Monaco/Monaco.html (251)

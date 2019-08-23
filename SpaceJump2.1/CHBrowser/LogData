@@ -1,0 +1,8 @@
+[0823/100023.948:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0823/100023.948:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0823/100024.037:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0823/100024.037:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0823/100027.440:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0823/100027.440:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0823/100038.295:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0823/100038.295:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
